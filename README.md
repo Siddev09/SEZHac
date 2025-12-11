@@ -31,9 +31,9 @@
 
 | Protocol          | Vulnerabilities Found | Ranks | Platform  | Reports                                                                                |
 | ----------------- | --------------------- | ----- | --------- | -------------------------------------------------------------------------------------- |
-| Rain contract     | 4                     |  _    | HackenP.  | -                                                                                      |
+|      | 4                     |  _    | HackenP.  | -                                                                                      |
 | Sereph Contract   | 5                     |  _    | RemedyXyz | -                                                                                      |
-| TradeBois         | 3                     |  _    | HackenP.  | -                                                                                      |
+|       | 3                     |  _    | HackenP.  | -                                                                                      |
 
 
 
