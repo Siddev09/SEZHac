@@ -29,11 +29,11 @@
 
 ## 📊 Audit Portfolio
 
-| Protocol          | Vulnerabilities Found | Ranks | Platform  | Reports                                                                                |
-| ----------------- | --------------------- | ----- | --------- | -------------------------------------------------------------------------------------- |
-|      | 4                     |  _    | HackenP.  | -                                                                                      |
-| Sereph Contract   | 5                     |  _    | RemedyXyz | -                                                                                      |
-|       | 3                     |  _    | HackenP.  | -                                                                                      |
+| Protocol          | Vulnerabilities Found | Critical | Platform  | Reports                                                                                |
+| ----------------- | --------------------- | ------   | --------- | -------------------------------------------------------------------------------------- |
+|                   | 4                     |  1       | HackenP.  | -                                                                                      |
+| Sereph Contract   | 5                     |  _       | RemedyXyz | -                                                                                      |
+|                   | 3                     |  1       | HackenP.  | -                                                                                      |
 
 
 
